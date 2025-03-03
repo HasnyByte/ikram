@@ -13,13 +13,11 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="aftereffect" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnyByte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Hasnybyte" />)
-
 ![snake gif](https://github.com/HasnyByte/ikram/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnyByte&layout=compact&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnyByte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Hasnybyte" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
