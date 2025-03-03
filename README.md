@@ -16,9 +16,4 @@
 </div>
 
 [//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnyByte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Hasnybyte" />)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasnyByte/hasny/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comHasnyByte/hasny/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HasnyByte/hasny/output/github-snake.svg" />
-</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
